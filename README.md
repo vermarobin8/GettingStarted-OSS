@@ -31,11 +31,7 @@ If your goal is to learn how to collaborate with others or understand how open s
 If you’re not sure how to get started as a contributor, check out our How to Contribute to Open Source guide.
 
 ### Finding people for your own opensource project
-Consider creating a website for your project. A website makes your project friendlier and easier to navigate, especially paired with clear documentation and tutorials. It also suggests that your project is active, which will make your audience feel more comfortable using it. Use examples to give people ideas for how to use your project.
-
-@adrianholovaty, co-creator of Django, said that a website was “by far the best thing we did with Django in the early days”.
-
-If your project is hosted on GitHub, you can use GitHub Pages to easily make a website. Yeoman, Vagrant, and Middleman are a few examples of excellent, comprehensive websites.
+Consider creating a website for your project. A website makes your project friendlier and easier to navigate, especially paired with clear documentation and tutorials. It also suggests that your project is active, which will make your audience feel more comfortable using it. Use examples to give people ideas for how to use your project.If your project is hosted on GitHub, you can use GitHub Pages to easily make a website. Yeoman, Vagrant, and Middleman are a few examples of excellent, comprehensive websites.
 
 ### Google's opensource guide
  < Please fill details here >
