@@ -46,8 +46,8 @@ Consider creating a website for your project. A website makes your project frien
 
 ### Articles
 1. [Getting involved in open source](https://opensource.com/life/15/2/developers-guide-getting-involved-open-source)
-
-< Add more articles here >
+2. [Licenses in open source](https://medium.com/@raulk/list-of-companies-and-popular-projects-by-the-open-source-licenses-they-use-35a53eaf1c80)
+3. [OpenSource and OpenAccess](https://medium.com/flockademic/why-open-source-and-open-access-go-great-together-75e31b630efc)
 
 ### Talks on OpenSource
   < Add links to talks on open source >
