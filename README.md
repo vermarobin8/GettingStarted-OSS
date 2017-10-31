@@ -39,8 +39,8 @@ https://opensource.google.com/
 Google Code In: https://developers.google.com/open-source/gci/
 
 ### Youtube Video tutorials
-1. https://youtu.be/IXnNgLmd6BM
-2. https://youtu.be/VAHDCcHdhhY
+1. [Contribute with me! Getting started with open source development](https://youtu.be/IXnNgLmd6BM)
+2. [How to start Open-Source Project - Episode1](https://youtu.be/VAHDCcHdhhY)
 
 ### Articles
 1. [Getting involved in open source](https://opensource.com/life/15/2/developers-guide-getting-involved-open-source)
