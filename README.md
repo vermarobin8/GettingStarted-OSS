@@ -34,7 +34,8 @@ If you’re not sure how to get started as a contributor, check out our How to C
 Consider creating a website for your project. A website makes your project friendlier and easier to navigate, especially paired with clear documentation and tutorials. It also suggests that your project is active, which will make your audience feel more comfortable using it. Use examples to give people ideas for how to use your project.If your project is hosted on GitHub, you can use GitHub Pages to easily make a website. Yeoman, Vagrant, and Middleman are a few examples of excellent, comprehensive websites.
 
 ### Google's opensource guide
- < Please fill details here >
+https://opensource.google.com/
+
 
 ### OpenSource competitions
   < Please fill details here >
