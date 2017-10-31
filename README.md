@@ -26,6 +26,17 @@ Transparency: Anyone can inspect an open source project for errors or inconsiste
 
 Open source isn’t just for software, either. You can open source everything from data sets to books. Check out GitHub Explore for ideas on what else you can open source.
 
+### How to contribute to other projects?
+If your goal is to learn how to collaborate with others or understand how open source works, consider contributing to an existing project. Start with a project that you already use and love. Contributing to a project can be as simple as fixing typos or updating documentation.
+If you’re not sure how to get started as a contributor, check out our How to Contribute to Open Source guide.
+
+### Finding people for your own opensource project
+Consider creating a website for your project. A website makes your project friendlier and easier to navigate, especially paired with clear documentation and tutorials. It also suggests that your project is active, which will make your audience feel more comfortable using it. Use examples to give people ideas for how to use your project.
+
+@adrianholovaty, co-creator of Django, said that a website was “by far the best thing we did with Django in the early days”.
+
+If your project is hosted on GitHub, you can use GitHub Pages to easily make a website. Yeoman, Vagrant, and Middleman are a few examples of excellent, comprehensive websites.
+
 ### Google's opensource guide
  < Please fill details here >
 
