@@ -15,6 +15,17 @@ One friend, Alex, who’s a pastry chef, suggests reducing the sugar (modify)
 Another friend, Lisa, asks to use it for a dinner next week (distribute)
 By comparison, a closed source process would be going to a restaurant and ordering a slice of cherry pie. You must pay a fee to eat the pie, and the restaurant probably won’t give you their recipe. If you copied their pie exactly and sold it under your own name, the restaurant could take action against you.
 
+### Why do people opensource their work? 
+There are many reasons why a person or organization would want to open source a project. Some examples include:
+
+Collaboration: Open source projects can accept changes from anybody in the world. Exercism, for example, is a programming exercise platform with over 350 contributors.
+
+Adoption and remixing: Open source projects can be used by anyone for nearly any purpose. People can even use it to build other things. WordPress, for example, started as a fork of an existing project called b2.
+
+Transparency: Anyone can inspect an open source project for errors or inconsistencies. Transparency matters to governments like Bulgaria or the United States, regulated industries like banking or healthcare, and security software like Let’s Encrypt.
+
+Open source isn’t just for software, either. You can open source everything from data sets to books. Check out GitHub Explore for ideas on what else you can open source.
+
 ### Google's opensource guide
  < Please fill details here >
 
