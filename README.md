@@ -31,8 +31,9 @@ Consider creating a website for your project. A website makes your project frien
 
 ## Links to learning guides
 
-### Google's opensource guide
-https://opensource.google.com/
+### Opensource guides
+* [opensource.google.com](https://opensource.google.com)
+* [opensource.guide](https://opensource.guide/)
 
 
 ### OpenSource competitions
