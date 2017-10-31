@@ -50,4 +50,5 @@ Consider creating a website for your project. A website makes your project frien
 3. [OpenSource and OpenAccess](https://medium.com/flockademic/why-open-source-and-open-access-go-great-together-75e31b630efc)
 
 ### Talks on OpenSource
-  < Add links to talks on open source >
+1. [What the industry has learned from linus torwalds](https://www.youtube.com/watch?v=7XTHdcmjenI)
+2. [Free software, Free society by Richard Stallman](https://www.youtube.com/watch?v=Ag1AKIl_2GM)
