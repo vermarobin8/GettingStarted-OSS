@@ -38,7 +38,8 @@ Consider creating a website for your project. A website makes your project frien
   < Please fill details here >
 
 ### Youtube Video tutorials
-  < Add youtube video links >
+https://youtu.be/IXnNgLmd6BM
+https://youtu.be/VAHDCcHdhhY
 
 ### Talks on OpenSource
   < Add links to talks on open source >
