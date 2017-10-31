@@ -36,7 +36,7 @@ https://opensource.google.com/
 
 
 ### OpenSource competitions
-  < Please fill details here >
+Google Code In: https://developers.google.com/open-source/gci/
 
 ### Youtube Video tutorials
 1. https://youtu.be/IXnNgLmd6BM
