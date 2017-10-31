@@ -42,5 +42,10 @@ Google Code In: https://developers.google.com/open-source/gci/
 1. https://youtu.be/IXnNgLmd6BM
 2. https://youtu.be/VAHDCcHdhhY
 
+### Articles
+1. [Getting involved in open source](https://opensource.com/life/15/2/developers-guide-getting-involved-open-source)
+
+< Add more articles here >
+
 ### Talks on OpenSource
   < Add links to talks on open source >
