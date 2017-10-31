@@ -26,6 +26,10 @@ Transparency: Anyone can inspect an open source project for errors or inconsiste
 
 Open source isn’t just for software, either. You can open source everything from data sets to books. Check out GitHub Explore for ideas on what else you can open source.
 
+### How to contribute to other projects?
+If your goal is to learn how to collaborate with others or understand how open source works, consider contributing to an existing project. Start with a project that you already use and love. Contributing to a project can be as simple as fixing typos or updating documentation.
+If you’re not sure how to get started as a contributor, check out our How to Contribute to Open Source guide.
+
 ### Google's opensource guide
  < Please fill details here >
 
