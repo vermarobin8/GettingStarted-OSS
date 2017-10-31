@@ -36,8 +36,8 @@ https://opensource.google.com/
 
 
 ### OpenSource competitions
-Google Code In: https://developers.google.com/open-source/gci/
-Open Source India: https://opensourceindia.in/osidays/
+1. Google Code In: https://developers.google.com/open-source/gci/
+2. Open Source India: https://opensourceindia.in/osidays/
 
 ### Youtube Video tutorials
 1. [Contribute with me! Getting started with open source development](https://youtu.be/IXnNgLmd6BM)
