@@ -9,7 +9,7 @@ Please add the relevant opensource guides that you find which will help beginner
   < Please fill details here >
 
 ### Youtube Video tutorials
-    <Add youtube video links>
+  < Add youtube video links >
 
 ### Talks on OpenSource
-    <Add links to talks on open source>
+  < Add links to talks on open source >
